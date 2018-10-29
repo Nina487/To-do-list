@@ -1,0 +1,7 @@
+.task-name {
+    float: left
+}
+
+.task-completed {
+    margin-left: 20px !important;
+}
